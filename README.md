@@ -16,21 +16,30 @@
 ----
 
 ## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://www.linkedin.com/in/avishi-jain-a8ba77329/?isSelfProfile=true" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Avishi0611" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
+<table>
+  <tr>
+    <th colspan="2" align="center">Socials</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="YOUR-LINKEDIN-URL">
+        <img src="https://www.linkedin.com/in/avishi-jain-a8ba77329/?isSelfProfile=true" width="75" height="75" alt="LinkedIn"/>
+      </a>
+      <br/><br/>
+      <a href="YOUR-LINKEDIN-URL"><strong>LinkedIn: Avishi Jain</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Avishi0611">
+        <img src="https://cdn.simpleicons.org/github/24292F" width="75" height="75" alt="GitHub"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Avishi0611"><strong>GitHub: Avishi0611</strong></a>
+    </td>
+  </tr>
+</table>
 ----
 
 ## 📊 GitHub Overview
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Avishi0611&style=flat-square&color=blueviolet)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishi0611&show_icons=true&theme=tokyonight&hide_border=true)
 
