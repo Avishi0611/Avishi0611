@@ -16,24 +16,26 @@
 ----
 
 ## 🤝 Connect With Me
+## 🌐 Socials
+
 <table>
   <tr>
     <th colspan="2" align="center">Socials</th>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="YOUR-LINKEDIN-URL">
-        <img src="https://www.linkedin.com/in/avishi-jain-a8ba77329/?isSelfProfile=true" width="75" height="75" alt="LinkedIn"/>
+      <a href="https://www.linkedin.com/in/avishi-jain-a8ba77329/?isSelfProfile=true">
+        <img src="https://img.icons8.com/color/96/linkedin.png" width="75" height="75" alt="LinkedIn" />
       </a>
       <br/><br/>
-      <a href="YOUR-LINKEDIN-URL"><strong>LinkedIn: Avishi Jain</strong></a>
+      <strong>LinkedIn: Avishi Jain</strong>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Avishi0611">
-        <img src="https://cdn.simpleicons.org/github/24292F" width="75" height="75" alt="GitHub"/>
+        <img src="https://img.icons8.com/fluency/96/github.png" width="75" height="75" alt="GitHub" />
       </a>
       <br/><br/>
-      <a href="https://github.com/Avishi0611"><strong>GitHub: Avishi0611</strong></a>
+      <strong>GitHub: Avishi0611</strong>
     </td>
   </tr>
 </table>
