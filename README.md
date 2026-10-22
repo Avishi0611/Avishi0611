@@ -7,15 +7,6 @@
 I believe that great engineering starts with asking the right questions. Before jumping into a solution, I like to understand **what problem needs to be solved, why it occurs, and what the solution actually accomplishes.** For me, solving the root cause matters more than simply fixing the symptoms.
 
 ----
-
-
-## 🧩 My Approach to Problem Solving
-
-> "Before chasing a solution, understand the problem, discover its root cause, and learn why the solution works."
-
-I believe that becoming a better programmer is not just about writing code. It is about developing the ability to think critically, break down complex problems, and build solutions that are meaningful, reliable, and useful.
-
----
 ## 🛠️ Tech Stack & Skills
 
 <p align="left">
