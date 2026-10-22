@@ -16,7 +16,6 @@
 ----
 
 ## 🤝 Connect With Me
-## 🌐 Socials
 
 <table>
   <tr>
